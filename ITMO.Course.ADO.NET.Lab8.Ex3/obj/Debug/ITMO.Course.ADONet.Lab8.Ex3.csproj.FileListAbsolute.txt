@@ -1,0 +1,11 @@
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.csproj.AssemblyReference.cache
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.csproj.SuggestedBindingRedirects.cache
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.Properties.Resources.resources
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.csproj.GenerateResource.cache
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.csproj.CoreCompileInputs.cache
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\bin\Debug\ITMO.Course.ADONet.Lab8.Ex3.exe.config
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\bin\Debug\ITMO.Course.ADONet.Lab8.Ex3.exe
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\bin\Debug\ITMO.Course.ADONet.Lab8.Ex3.pdb
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.Form1.resources
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.exe
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab8.Ex3\obj\Debug\ITMO.Course.ADONet.Lab8.Ex3.pdb

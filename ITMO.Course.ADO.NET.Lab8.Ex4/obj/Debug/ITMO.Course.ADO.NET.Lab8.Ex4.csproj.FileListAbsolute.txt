@@ -1,0 +1,10 @@
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\bin\Debug\ITMO.Course.ADONet.Lab8.Ex4.exe.config
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\bin\Debug\ITMO.Course.ADONet.Lab8.Ex4.exe
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\bin\Debug\ITMO.Course.ADONet.Lab8.Ex4.pdb
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADO.NET.Lab8.Ex4.csproj.AssemblyReference.cache
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADONet.Lab8.Ex4.LINQsql_m.resources
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADONet.Lab8.Ex4.Properties.Resources.resources
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADO.NET.Lab8.Ex4.csproj.GenerateResource.cache
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADO.NET.Lab8.Ex4.csproj.CoreCompileInputs.cache
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADONet.Lab8.Ex4.exe
+F:\LEARN\ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADO.NET\ITMO.Course.ADONet.Lab8.Ex4\obj\Debug\ITMO.Course.ADONet.Lab8.Ex4.pdb

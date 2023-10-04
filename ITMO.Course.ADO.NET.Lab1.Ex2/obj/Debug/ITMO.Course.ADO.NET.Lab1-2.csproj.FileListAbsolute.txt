@@ -1,0 +1,10 @@
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\bin\Debug\ITMO.Course.ADONet.Lab1.Ex2.exe.config
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\bin\Debug\ITMO.Course.ADONet.Lab1.Ex2.exe
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\bin\Debug\ITMO.Course.ADONet.Lab1.Ex2.pdb
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADO.NET.Lab1-2.csproj.AssemblyReference.cache
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADONet.Lab1.Ex2.Form1.resources
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADONet.Lab1.Ex2.Properties.Resources.resources
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADO.NET.Lab1-2.csproj.GenerateResource.cache
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADO.NET.Lab1-2.csproj.CoreCompileInputs.cache
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADONet.Lab1.Ex2.exe
+F:\LEARN\ADO.NET\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab1.Ex2\obj\Debug\ITMO.Course.ADONet.Lab1.Ex2.pdb

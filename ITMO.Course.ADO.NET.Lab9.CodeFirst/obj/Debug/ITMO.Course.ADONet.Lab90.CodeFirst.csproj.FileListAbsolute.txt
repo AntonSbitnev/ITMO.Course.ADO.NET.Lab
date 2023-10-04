@@ -1,0 +1,12 @@
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.dll.config
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.dll
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.pdb
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\EntityFramework.dll
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\EntityFramework.xml
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\obj\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.csproj.AssemblyReference.cache
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\obj\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.csproj.CoreCompileInputs.cache
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\obj\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.csproj.CopyComplete
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\obj\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.dll
+D:\ITMO\ITMO.Course.ADONet\ITMO.Course.ADONet\ITMO.Course.ADONet.Lab90.CodeFirst\obj\Debug\ITMO.Course.ADONet.Lab90.CodeFirst.pdb
